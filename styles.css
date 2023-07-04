@@ -1,0 +1,25 @@
+p {
+    background-color: lightblue;
+}
+header {
+    background-color: aliceblue; 
+    position: sticky; 
+    top: 0; display: flex; 
+    flex-direction: row; 
+    justify-content: space-between;
+}
+
+#plava {
+    display: flex;
+    flex-direction: row;
+}
+.display-block {
+    display: block;
+}
+body {
+    margin: 0; 
+    padding: 0;
+}
+.width100 {
+    width: 100%;
+}
